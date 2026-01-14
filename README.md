@@ -9,3 +9,7 @@ Folder structure:
 1. Cad.zip: contains the step file of the ideated design.
 2. UVDC 2025 Report.pdf: Contains the detailed report of the problem statement and solution.
 3. PPT.pptx: Contains the presentation shown to the panel.
+
+User Info:
+Name: B Gautam Rao
+E-Mail: bgautamrao@iitg.ac.in
