@@ -11,5 +11,5 @@ Folder structure:
 3. PPT.pptx: Contains the presentation shown to the panel.
 
 User Info:
-Name: B Gautam Rao
+Name: B Gautam Rao |
 E-Mail: bgautamrao@iitg.ac.in
